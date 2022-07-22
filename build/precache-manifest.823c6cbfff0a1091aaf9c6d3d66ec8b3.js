@@ -24,16 +24,16 @@ self.__precacheManifest = [
     "url": "/weather-app/static/media/app.3a3fd1dc.jpeg"
   },
   {
-    "revision": "bb80d9cdfaa1aa6a49927cb8e6a73b5b",
-    "url": "/weather-app/static/media/cold.bb80d9cd.jpeg"
+    "revision": "50a7c4ff21f3c027c793a17c816d9f87",
+    "url": "/weather-app/static/media/hot.50a7c4ff.jpeg"
   },
   {
     "revision": "09c9f3d4f6e997494183015a85517a92",
     "url": "/weather-app/static/media/rain.09c9f3d4.jpeg"
   },
   {
-    "revision": "50a7c4ff21f3c027c793a17c816d9f87",
-    "url": "/weather-app/static/media/hot.50a7c4ff.jpeg"
+    "revision": "bb80d9cdfaa1aa6a49927cb8e6a73b5b",
+    "url": "/weather-app/static/media/cold.bb80d9cd.jpeg"
   },
   {
     "revision": "0ce3d62aa71d4f2c5b2d4a010647504c",
